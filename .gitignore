@@ -1,0 +1,21 @@
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+.mypy_cache/
+.pytest_cache/
+.poetry/
+*.log
+.idea/
+.vscode/
+.DS_Store
+
+# Poetry build artifacts
+build/
+dist/
+
+# Coverage
+htmlcov/
+.coverage*
+
